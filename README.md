@@ -1,26 +1,26 @@
+<div align="center">
+  <a href="https://github.com/hasanhabibmottakin/free-livetv/raw/refs/heads/main/app-release.apk">
+    <img src="https://raw.githubusercontent.com/hasanhabibmottakin/free-livetv/refs/heads/main/newbanner.jfif" alt="Click to Download App" width="5000" height="800">
+  </a>
+</div>
+
 # Free Live TV App
 
-[![App Banner](https://raw.githubusercontent.com/hasanhabibmottakin/free-livetv/refs/heads/main/newbanner.jfif)](https://github.com/hasanhabibmottakin/free-livetv/raw/refs/heads/main/app-release.apk)
+Click the banner above to directly download the latest APK for your Android device.
 
-> 💡 **Click the banner above to download the latest APK directly!**
+### Features
+* Stream premium content from platforms like Netflix, Bongo, Bioscope, Chorki, and AltBalaji.
+* Watch exclusive live events and live sports seamlessly.
+* Access a wide variety of live TV channels all in one place.
 
----
+### Disclaimer
+* All content, including live channels and DRM protected media, is collected from third-party sources.
+* We do not host or own any of the media provided in this application. We are simply representing and organizing these third-party links into a user-friendly interface.
 
-## 📱 About The App
+### Availability
+* **Right Now:** We currently only support the Mobile App version (Android).
+* **Coming Soon:** Web and Smart TV versions will be launching in the near future.
 
-Enjoy your favorite live channels, web series, and exclusive content all in one place. Stream smoothly with embedded DRM content support from popular platforms!
-
-### ✨ Key Features & Platforms Included:
-
-* **Popular OTT Platforms:** Access streams from Netflix, Bongo, Bioscope, Chorki, ALTBalaji, and more.
-* **Live Events:** Watch live sports, award shows, and trending events in real-time.
-* **Live TV Channels:** Broad range of news, entertainment, and regional live television channels.
-* **DRM Content Support:** Seamless streaming for DRM-protected content.
-
----
-
-## ⚠️ Disclaimer
-
-* All content, channels, and streams provided in this application are sourced from **3rd-party sources**.
-* We **do not host or own** any of the content displayed in the app.
-* Our application simply acts as an aggregator to present these streams for convenience.
+### Connect With Us
+Join our official Telegram community for updates, announcements, and support:
+[https://t.me/stremifyapp](https://t.me/stremifyapp)
